@@ -1,0 +1,5 @@
+﻿  ciagi.cpp
+  ConsoleApplication5.cpp
+C:\Users\dawid\Desktop\Podstawy programowania\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(1,9): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Generowanie kodu...
+  ConsoleApplication5.vcxproj -> C:\Users\dawid\Desktop\Podstawy programowania\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
